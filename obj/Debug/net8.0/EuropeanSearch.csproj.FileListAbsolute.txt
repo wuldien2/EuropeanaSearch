@@ -1,0 +1,153 @@
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\appsettings.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\launchSettings.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.staticwebassets.endpoints.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.exe
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.deps.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.runtimeconfig.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.pdb
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\Sprache.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.csproj.AssemblyReference.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.AssemblyInfoInputs.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.AssemblyInfo.cs
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.csproj.CoreCompileInputs.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\scopedcss\bundle\EuropeanSearch.styles.css
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\European.DD4C6BCE.Up2Date
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\refint\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.pdb
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.genruntimeconfig.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen\obj\Debug\net8.0\ref\EuropeanSearch.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\appsettings.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\launchSettings.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.staticwebassets.endpoints.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.exe
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.deps.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.runtimeconfig.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.pdb
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Sprache.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.AssemblyInfo.cs
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\scopedcss\bundle\EuropeanSearch.styles.css
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\European.DD4C6BCE.Up2Date
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\refint\EuropeanSearch.dll
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.pdb
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.genruntimeconfig.cache
+C:\Users\Darko\Desktop\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\ref\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\appsettings.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\launchSettings.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.staticwebassets.endpoints.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.exe
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.deps.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.runtimeconfig.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\EuropeanSearch.pdb
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Sprache.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.csproj.AssemblyReference.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.AssemblyInfoInputs.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.AssemblyInfo.cs
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.csproj.CoreCompileInputs.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\scopedcss\bundle\EuropeanSearch.styles.css
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\European.DD4C6BCE.Up2Date
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\refint\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.pdb
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\EuropeanSearch.genruntimeconfig.cache
+C:\Users\wuldien\Downloads\projekat_ispravljen (2)\projekat_ispravljen (2)\projekat_ispravljen\obj\Debug\net8.0\ref\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\appsettings.json
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\launchSettings.json
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\EuropeanSearch.staticwebassets.endpoints.json
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\EuropeanSearch.exe
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\EuropeanSearch.deps.json
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\EuropeanSearch.runtimeconfig.json
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\EuropeanSearch.pdb
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\Sprache.dll
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wuldien\Downloads\projekat\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.csproj.AssemblyReference.cache
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.AssemblyInfoInputs.cache
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.AssemblyInfo.cs
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.csproj.CoreCompileInputs.cache
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\scopedcss\bundle\EuropeanSearch.styles.css
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\European.DD4C6BCE.Up2Date
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\refint\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.pdb
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.genruntimeconfig.cache
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\ref\EuropeanSearch.dll

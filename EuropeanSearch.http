@@ -1,0 +1,41 @@
+@EuropeanSearch_HostAddress = http://localhost:5213
+
+### Pretraga po reci - van gogh
+GET {{EuropeanSearch_HostAddress}}/search?query=van+gogh
+Accept: application/json
+
+###
+
+### Pretraga sa vise filtera
+GET {{EuropeanSearch_HostAddress}}/search?query=rembrandt&language=nl&rows=5
+Accept: application/json
+
+###
+
+### Isti zahtev ponovo - treba da vrati odgovor iz kesa (CACHE HIT)
+GET {{EuropeanSearch_HostAddress}}/search?query=van+gogh
+Accept: application/json
+
+###
+
+### Pretraga sa filterom po godini
+GET {{EuropeanSearch_HostAddress}}/search?query=monet&year=1900&rows=8
+Accept: application/json
+
+###
+
+### Pretraga bez query parametra - treba da vrati 400 Bad Request
+GET {{EuropeanSearch_HostAddress}}/search
+Accept: application/json
+
+###
+
+### Prikaz statistike kesa
+GET {{EuropeanSearch_HostAddress}}/cache/stats
+Accept: application/json
+
+###
+
+### Brisanje isteklih elemenata iz kesa
+DELETE {{EuropeanSearch_HostAddress}}/cache/clean
+Accept: application/json
