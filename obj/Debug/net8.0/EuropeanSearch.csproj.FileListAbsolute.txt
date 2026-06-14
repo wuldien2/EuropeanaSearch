@@ -151,3 +151,4 @@ C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\refint\EuropeanSearch.dll
 C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.pdb
 C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.genruntimeconfig.cache
 C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\ref\EuropeanSearch.dll
+C:\Users\wuldien\Downloads\projekat\obj\Debug\net8.0\EuropeanSearch.sourcelink.json

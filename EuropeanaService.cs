@@ -100,10 +100,14 @@ namespace EuropeanSearch.Services
 
             _logger.LogInformation("[API] GET {Url}", url.Replace(_apiKey, "***"));
 
-            HttpResponseMessage response = await _httpClient.GetAsync(url);
-            response.EnsureSuccessStatusCode();
-
-            string body = await response.Content.ReadAsStringAsync();
+            string body = await _httpClient.GetAsync(url)
+                .ContinueWith(async t =>
+                {
+                    var response = await t;
+                    response.EnsureSuccessStatusCode();
+                    return await response.Content.ReadAsStringAsync();
+                })
+                .Unwrap();
             JObject json = JObject.Parse(body);
 
             string? apiStatus = json["success"]?.ToString();

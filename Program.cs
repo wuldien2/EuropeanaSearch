@@ -21,8 +21,7 @@ builder.Services.AddSwaggerGen(c =>
     {
         Title = "Europeana Art Search API",
         Version = "v1",
-        Description = "Web server za pretragu umetnickih dela koriscenjem Europeana API-a " +
-                      "sa strategijom upravljanja kesom baziranom na vremenu isticanja (expiration-based cache)."
+        Description = "Web server za pretragu umetnickih dela koriscenjem Europeana API-a "
     });
 });
 
@@ -38,16 +37,6 @@ app.UseSwaggerUI(c =>
     c.RoutePrefix = "swagger";
 });
 
-//  GET /search  - pretraga umetnickih dela
-//  Parametri:
-//    query      (obavezno) - rec ili fraza za pretragu
-//    recsource  (opciono)  - filtriranje po dobavljacu podataka
-//    language   (opciono)  - filtriranje po jeziku (npr. "en", "de")
-//    year       (opciono)  - filtriranje po godini (npr. "1900")
-//    rows       (opciono)  - broj rezultata (podrazumevano 10)
-//
-//  Primer: GET /search?query=van+gogh
-//  Primer: GET /search?query=rembrandt&language=nl&rows=5
 app.MapGet("/search", async (
     EuropeanaService service,
     string? query,
@@ -139,12 +128,14 @@ app.MapDelete("/cache/clean", (EuropeanaService service) =>
 .WithSummary("Rucno uklanja istekle elemente iz kesa")
 .WithOpenApi();
 
-Console.WriteLine("==============================================");
 Console.WriteLine("  Europeana Art Search Server");
-Console.WriteLine("  Strategija kesa: Vreme isticanja (TTL)");
-Console.WriteLine($"  TTL: {builder.Configuration.GetValue<int>("CacheTtlMinutes", 60)} minuta");
 Console.WriteLine("  Swagger UI: http://localhost:5213/swagger");
 Console.WriteLine("  Primer poziva: GET /search?query=van+gogh");
-Console.WriteLine("==============================================");
 
-app.Run();
+Console.WriteLine("  Pritisnite ENTER za izlaz...");
+
+await app.StartAsync();
+
+Console.ReadLine();
+
+await app.StopAsync();
